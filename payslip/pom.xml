@@ -44,6 +44,8 @@
               <goals>
                 <goal>integration-test</goal>
                 <goal>verify</goal>
+		        <goal>deploy</goal>
+		      
               </goals>
               <configuration>
               <includes>
