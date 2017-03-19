@@ -80,7 +80,7 @@
           <skip>${surefire.skip}</skip>
         </configuration>
       </plugin>
-    </plugins>
+ </plugins>
   </build>
 <!--     <finalName>payslip</finalName> -->
 </project>
