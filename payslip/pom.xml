@@ -41,10 +41,7 @@
           <version>2.19</version>
           <executions>
             <execution>
-              <goals>
-                <goal>integration-test</goal>
-                <goal>verify</goal>
-              </goals>
+             
               <configuration>
               <includes>
  				<include>**/IT*.java</include>
