@@ -43,7 +43,7 @@
             <execution>
               <goals>
                 <goal>integration-test</goal>
-                <goal>test</goal>
+                <goal>verify</goal>
               </goals>
               <configuration>
               <includes>
