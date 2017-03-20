@@ -45,9 +45,7 @@
               <goals>
 		      <goal>integration-test</goal>
 		      <goal>verify</goal>
-		       
-		      
-              </goals>
+		      </goals>
               <configuration>
               <includes>
  				<include>**/IT*.java</include>
