@@ -17,12 +17,12 @@
   </dependencies>
 	<distributionManagement>
         <repository>
-            <id>Nexus</id>
+            <id>nexus</id>
             <name>Internal Releases</name>
             <url>http://52.27.244.78:8081/nexus/content/repositories/releases/</url>
          </repository>
         <snapshotRepository>
-            <id>Nexus</id>
+            <id>nexus</id>
             <name>Internal Snapshots</name>
             <url>http://52.27.244.78:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
