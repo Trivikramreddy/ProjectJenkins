@@ -27,15 +27,7 @@
             <url>http://52.27.244.78:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
       </distributionManagement>
-	<settings>
-  <servers>
-    <server>
-      <id>nexus</id>
-      <username>admin</username>
-        <password>admin123</password>
-    </server>
-  </servers>
-</settings>
+	
   <build>
     <pluginManagement>
       <plugins>
